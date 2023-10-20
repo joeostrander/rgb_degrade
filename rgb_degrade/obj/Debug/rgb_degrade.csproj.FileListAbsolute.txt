@@ -1,0 +1,10 @@
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\bin\Debug\rgb_degrade.exe.config
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\bin\Debug\rgb_degrade.exe
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\bin\Debug\rgb_degrade.pdb
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.csprojAssemblyReference.cache
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.Form1.resources
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.Properties.Resources.resources
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.csproj.GenerateResource.cache
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.csproj.CoreCompileInputs.cache
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.exe
+G:\My Drive\DEV\VisualStudio\rgb_degrade\rgb_degrade\obj\Debug\rgb_degrade.pdb
